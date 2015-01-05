@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-01-03`**
+**UPDATED: `2015-01-05`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -10,11 +10,11 @@ If you are interested to do an exchange, please contact me.
 | d001 | 3      | 2014-2015 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Vulcan Europe                                | TRUE          |
 | d002 | 1      | 2014-2015 | NL      | Abcoude       | Garage Abcoude                | http://vuurwerkwinkelabcoude.nl   | GBV-WECO                                                | FALSE         | Flyer (leaflet)
 | d003 | 2      | 2014-2015 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
-| d004 | 1      | 2014-2015 | NL      | Amsterdam     | Partyshop                     | -                                 | Zena                                                    | FALSE         |
-| d005 | 4      | 2014-2015 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Katan, Rubro, Zena                                      | TRUE          |
+| d004 | 3      | 2014-2015 | NL      | Amsterdam     | Partyshop                     | -                                 | Zena                                                    | FALSE         |
+| d005 | 5      | 2014-2015 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Katan, Rubro, Zena                                      | TRUE          |
 | d006 | 1      | 2014-2015 | NL      | Rotterdam     | Knalshop                      | http://knalshop.nl                | Cafferata                                               | ?             |
 | d007 | 1      | 2014-2015 | DE      | -             | You & Metro (Nonfood)         | http://metro.de                   | Comet                                                   | TRUE          | Contains also non-firework products
-| d009 | 1      | 2014-2015 | NL      | -             | Welkoop                       | http://welkoop.nl                 | Lesli                                                   | TRUE          |
+| d009 | 3      | 2014-2015 | NL      | -             | Welkoop                       | http://welkoop.nl                 | Lesli                                                   | TRUE          |
 | d010 | 1      | 2014-2015 | NL      | -             | Intratuin                     | http://intratuinvuurwerk.nl       | Broekhoff, Lesli                                        | TRUE          |
 | d012 | 1      | 2014-2015 | NL      | Amstelveen    | Hubo Lambertus v/d Broek      | http://huboamstelveen.nl          | Breeschoten "De Kruiterij", Hardix, Mercurius           | FALSE         |
 | d013 | 4      | 2014-2015 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
@@ -26,6 +26,12 @@ If you are interested to do an exchange, please contact me.
 | d019 | 2      | 2014-2015 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff, BurnIt, Zena                                 | TRUE          |
 | d020 | 2      | 2014-2015 | NL      | Hoofddorp     | E-Bike point                  | http://e-bikepointhoofddorp.nl    | Broekhoff, Pyro Queen, Rubro, VuurwerkMania             | FALSE         | Flyer (leaflet)
 | d021 | 1      | 2014-2015 | NL      | Aalsmeer      | Fuego Fireworks               | http://fuego-fireworks.com        | Breeschoten "De Kruiterij", Cafferata, Evolution, Rubro | TRUE          |
+| d022 | 1      | 2014-2015 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
+| d023 | 2      | 2014-2015 | DE      | -             | Lidl                          | http://lidl.de                    | WECO                                                    | TRUE          | Contains also non-firework products
+| d024 | 1      | 2014-2015 | NL      | IJsselstein   | Intratuin                     | http://intratuinvuurwerk.nl       | VC                                                      | TRUE          | Flyer (leaflet) in A5 size for IJsselstein only
+| d025 | 1      | 2014-2015 | NL      | Amsterdam     | De Rivierenbuurt              | http://vuurwerkderivierenbuurt.nl | Katan, Rubro                                            | FALSE         |
+| d026 | 1      | 2014-2015 | NL      | Amsterdam     | Witbaard                      | http://witbaard-vuurwerk.nl       | Broekhoff, Hardix, Mercurius, VC                        | TRUE          | Also in Hilversum
+| d027 | 1      | 2014-2015 | NL      | Arnhem        | Mantel                        | http://mantel-vuurwerk.nl         | Mantel, Rubro, Vuurwerkvisie, Zena                      | TRUE          | Also in Elst
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
 | d051 | 6      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
