@@ -14,9 +14,9 @@ If you are interested to do an exchange, please contact me.
 | d005 | 5      | 2014-2015 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Katan, Rubro, Zena                                      | TRUE          |
 | d006 | 1      | 2014-2015 | NL      | Rotterdam     | Knalshop                      | http://knalshop.nl                | Cafferata                                               | ?             |
 | d007 | 1      | 2014-2015 | DE      | -             | You & Metro (Nonfood)         | http://metro.de                   | Comet                                                   | TRUE          | Contains also non-firework products
-| d009 | 3      | 2014-2015 | NL      | -             | Welkoop                       | http://welkoop.nl                 | Lesli                                                   | TRUE          |
+| d009 | 4      | 2014-2015 | NL      | -             | Welkoop                       | http://welkoop.nl                 | Lesli                                                   | TRUE          |
 | d010 | 1      | 2014-2015 | NL      | -             | Intratuin                     | http://intratuinvuurwerk.nl       | Broekhoff, Lesli                                        | TRUE          |
-| d012 | 1      | 2014-2015 | NL      | Amstelveen    | Hubo Lambertus v/d Broek      | http://huboamstelveen.nl          | Breeschoten "De Kruiterij", Hardix, Mercurius           | FALSE         |
+| d012 | 2      | 2014-2015 | NL      | Amstelveen    | Hubo Lambertus v/d Broek      | http://huboamstelveen.nl          | Breeschoten "De Kruiterij", Hardix, Mercurius           | FALSE         |
 | d013 | 4      | 2014-2015 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
 | d014 | 1      | 2014-2015 | NL      | Hoofddorp     | The Firework Factory          | http://fireworkfactory.nl         | Hardix, Mercurius                                       | TRUE          |
 | d015 | 1      | 2014-2015 | BE      | Baarle-Hertog | Pyroshop Baarle-Hertog        | http://pyroshop.be                | Pyroshop, Pyrostar                                      | TRUE          |
@@ -32,6 +32,12 @@ If you are interested to do an exchange, please contact me.
 | d025 | 1      | 2014-2015 | NL      | Amsterdam     | De Rivierenbuurt              | http://vuurwerkderivierenbuurt.nl | Katan, Rubro                                            | FALSE         |
 | d026 | 1      | 2014-2015 | NL      | Amsterdam     | Witbaard                      | http://witbaard-vuurwerk.nl       | Broekhoff, Hardix, Mercurius, VC                        | TRUE          | Also in Hilversum
 | d027 | 1      | 2014-2015 | NL      | Arnhem        | Mantel                        | http://mantel-vuurwerk.nl         | Mantel, Rubro, Vuurwerkvisie, Zena                      | TRUE          | Also in Elst
+| d028 | 1      | 2014-2015 | NL      | -             | Welkoop                       | http://welkoop.nl                 | Lesli                                                   | TRUE          | Extra paper attached to regular catalog
+| d029 | 1      | 2014-2015 | NL      | Soest         | Jacco de Bruin                | http://jaccodebruin.nl            | GBV-WECO                                                | FALSE         |
+| d030 | 1      | 2014-2015 | NL      | Soest         | Hooijer                       | http://hooijervuurwerk.nl         | Broekhoff                                               | FALSE         |
+| d031 | 1      | 2014-2015 | NL      | Soest         | Vuurwerkknaller               | http://vuurwerkknaller.com        | Hardix, Mercurius, The Dutch Collection                 | FALSE         |
+| d032 | 1      | 2014-2015 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Lesli                                           | TRUE          | Flyer (leaflet). Also in Kudelstaart. Contains also non-firework products.
+| d033 | 1      | 2014-2015 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Lesli                                           | TRUE          | Flyer (leaflet). Also in Kudelstaart. (this one differs from d032)
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
 | d051 | 6      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
@@ -57,3 +63,5 @@ If you are interested to do an exchange, please contact me.
 | d071 | 1      | 2013-2014 | NL      | Elst          | Kruit Koning (Intratuin Elst) | http://kruitkoning.nl             | Bonfireworks, Broekhoff, China Red, Lesli               | TRUE          |
 | d072 | 1      | 2013-2014 | NL      | -             | Zena                          | http://zenavuurwerk.nl            | BurnIt, Zena                                            | ?             | Flyer (leaflet), not owned by a shop
 | d073 | 1      | 2013-2014 | NL      | Almere        | Zena Almere Centrum           | -                                 | BurnIt, Zena                                            | FALSE         |
+| ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
+| d100 | 1      | 2012-2013 | NL      | v
