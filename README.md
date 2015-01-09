@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-01-05`**
+**UPDATED: `2015-01-10`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -70,7 +70,7 @@ If you are interested to do an exchange, please contact me.
 | d103 | 4      | 2012-2013 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, DBVuurwerk Wolff                  | FALSE         |
 | d104 | 3      | 2012-2013 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
 | d105 | 2      | 2012-2013 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
-| d106 | 1      | 2012-2013 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             |
+| d106 | 1      | 2012-2013 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             | Also in Badhoevedorp and Haarlem
 | d107 | 1      | 2012-2013 | NL      | Cruquius      | Intratuin                     | http://vuurwerkdepot.nl           | BonFireworks, VC, Wolff                                 | TRUE          | Flyer (leaflet)
 | d108 | 3      | 2012-2013 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Mercurius, Schuurmans (Vulcan Europe)        | TRUE          |
 | d109 | 1      | 2012-2013 | NL      | -             | Intratuin                     | http://intratuinvuurwerk.nl       | BonFireworks, Broekhoff, GBV-WECO, VC                   | TRUE          |
@@ -113,5 +113,7 @@ If you are interested to do an exchange, please contact me.
 | d171 | 1      | 2011-2012 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | FALSE         |
 | d172 | 1      | 2011-2012 | NL      | Uithoorn      | Vuurwerk Uithoorn             | http://vuurwerkuithoorn.nl        | Breeschoten "De Kruiterij"                              | FALSE         |
 | d173 | 2      | 2011-2012 | NL      | Haastrecht    | Camping Streefland            | -                                 | Breeschoten "De Kruiterij"                              | FALSE         |
-| d174 | 1      | 2011-2012 | NL      | Rotterdam     | Vuurwerkreus                  | http://vuurwerkreus.nl            | Broekhoff, Evuco, GBV-WECO, Vuurwerkreus, Zena          | FALSE         |
-| d175 | 3      | 2011-2012 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             |
+| d174 | 1      | 2011-2012 | NL      | Rotterdam     | Vuurwerkreus                  | http://vuurwerkreus.nl            | Broekhoff, Evuco, GBV-WECO, Vuurwerkreus, Zena          | FALSE         | Also in Oud Beijerland, Barendrecht and Waddinxveen
+| d175 | 3      | 2011-2012 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             | Also in Badhoevedorp and Haarlem
+| ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
+| d200 | 1      | 2010-2011 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | FALSE         | Also in Badhoevedorp and Haarlem
