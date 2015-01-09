@@ -7,7 +7,7 @@ If you are interested to do an exchange, please contact me.
 
 | ID   | AMOUNT | YEAR      | COUNTRY | ORIGIN        | CATALOG NAME                  | WEBSITE                           | IMPORTERS                                               | CUSTOM DESIGN | NOTE
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
-| d001 | 3      | 2014-2015 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Vulcan Europe                                | TRUE          |
+| d001 | 4      | 2014-2015 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Vulcan Europe                                | TRUE          |
 | d002 | 1      | 2014-2015 | NL      | Abcoude       | Garage Abcoude                | http://vuurwerkwinkelabcoude.nl   | GBV-WECO                                                | FALSE         | Flyer (leaflet)
 | d003 | 2      | 2014-2015 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
 | d004 | 3      | 2014-2015 | NL      | Amsterdam     | Partyshop                     | -                                 | Zena                                                    | FALSE         |
@@ -40,10 +40,10 @@ If you are interested to do an exchange, please contact me.
 | d033 | 1      | 2014-2015 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Lesli                                           | TRUE          | Flyer (leaflet). Also in Kudelstaart. (this one differs from d032)
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
-| d051 | 6      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
+| d051 | 5      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
 | d052 | 2      | 2013-2014 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff, Pyrostar, Wolff                              | TRUE          |
 | d053 | 1      | 2013-2014 | NL      | -             | El Blanco                     | http://elblankco.nl               | Lesli                                                   | TRUE          |
-| d054 | 5      | 2013-2014 | NL      | -             | Halfords (Knalfords)          | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
+| d054 | 5      | 2013-2014 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
 | d055 | 2      | 2013-2014 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Heron, Lesli, Rubro, Zena                               | TRUE          | Fire systems and Visco fuse being sold as safety articles
 | d056 | 1      | 2013-2014 | NL      | Nieuwkoop     | Benza Nieuwkoop               | -                                 | Schuurmans (Vulcan Europe)                              | FALSE         |
 | d057 | 1      | 2013-2014 | NL      | Amsterdam     | Witbaard                      | http://witbaard.nl                | Broekhoff, Hardix, VC                                   | TRUE          |
