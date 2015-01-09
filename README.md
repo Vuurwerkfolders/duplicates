@@ -64,12 +64,27 @@ If you are interested to do an exchange, please contact me.
 | d072 | 1      | 2013-2014 | NL      | -             | Zena                          | http://zenavuurwerk.nl            | BurnIt, Zena                                            | ?             | Flyer (leaflet), not owned by a shop
 | d073 | 1      | 2013-2014 | NL      | Almere        | Zena Almere Centrum           | -                                 | BurnIt, Zena                                            | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
-| d100 | 1      | 2012-2013 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff                                               | TRUE          |
-| d101 | 1      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
-| d102 | 1      | 2012-2013 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Mercurius                                       | TRUE          | Also in Kudelstaart.
-| d103 | 2      | 2012-2013 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, DBVuurwerk Wolff                  | FALSE         |
-| d104 | 1      | 2012-2013 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
-| d105 | 1      | 2012-2013 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
+| d100 | 2      | 2012-2013 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff                                               | TRUE          |
+| d101 | 3      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
+| d102 | 2      | 2012-2013 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Mercurius                                       | TRUE          | Also in Kudelstaart.
+| d103 | 4      | 2012-2013 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, DBVuurwerk Wolff                  | FALSE         |
+| d104 | 3      | 2012-2013 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
+| d105 | 2      | 2012-2013 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
 | d106 | 1      | 2012-2013 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             |
 | d107 | 1      | 2012-2013 | NL      | Cruquius      | Intratuin                     | http://vuurwerkdepot.nl           | BonFireworks, VC, Wolff                                 | TRUE          | Flyer (leaflet)
-| d108 | 1      | 2012-2013 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Mercurius, Vulcan Europe                     | TRUE          |
+| d108 | 3      | 2012-2013 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Mercurius, Schuurmans (Vulcan Europe)        | TRUE          |
+| d109 | 1      | 2012-2013 | NL      | -             | Intratuin                     | http://intratuinvuurwerk.nl       | BonFireworks, Broekhoff, GBV-WECO, VC                   | TRUE          |
+| d110 | 1      | 2012-2013 | NL      | Schijndel     | Wiek de Laat                  | http://wiekdelaat.nl              | Broekhoff                                               | FALSE         |
+| d111 | 2      | 2012-2013 | NL      | Amsterdam     | Partyshop                     | -                                 | Vuurwerkvisie, Zena                                     | FALSE         |
+| d112 | 1      | 2012-2013 | NL      | Aalsmeer      | Fuego Fireworks               | http://fuego-fireworks.com        | Breeschoten "De Kruiterij", Cafferata                   | TRUE          |
+| d113 | 3      | 2012-2013 | NL      | Diemen        | Diemenvuurwerk                | http://diemenvuurwerk.nl          | Zena                                                    | FALSE         |
+| d114 | 1      | 2012-2013 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
+| d115 | 1      | 2012-2013 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Broekhoff, Lesli                                        | ?             |
+| d116 | 1      | 2012-2013 | NL      | Maarssen      | Vechtweelde                   | http://vuurwerkvechtweelde.nl     | Broekhoff, Rubro                                        | TRUE          |
+| d117 | 1      | 2012-2013 | NL      | Amsterdam     | Witbaard                      | http://witbaard-vuurwerk.nl       | Broekhoff, Hardix, VC                                   | TRUE          | Also in Hilversum
+| d118 | 2      | 2012-2013 | NL      | Watergang     | Waterland                     | http://vuurwerkwaterland.nl       | Cafferata                                               | ?             |
+| d119 | 1      | 2012-2013 | NL      | Eemnes        | Witte Vuurwerk                | http://witte-vuurwerk.nl          | Marijn (MX)                                             | TRUE          |
+| d120 | 1      | 2012-2013 | NL      | Badhoevedorp  | Profil: Albert van der Kolk   | -                                 | Schuurmans (Vulcan Europe)                              | FALSE         |
+| d121 | 1      | 2012-2013 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Broekhoff, Cafferata, Schuurmans (Vulcan Europe)        | TRUE          |
+| d122 | 1      | 2012-2013 | NL      | Leusden       | Eurofleur                     | http://eurofleur.nl               | GBV-WECO                                                | FALSE         |
+| d123 | 1      | 2012-2013 | NL      | Amsterdam     | Berensen                      | -                                 | GBV-WECO                                                | FALSE         |
