@@ -64,4 +64,12 @@ If you are interested to do an exchange, please contact me.
 | d072 | 1      | 2013-2014 | NL      | -             | Zena                          | http://zenavuurwerk.nl            | BurnIt, Zena                                            | ?             | Flyer (leaflet), not owned by a shop
 | d073 | 1      | 2013-2014 | NL      | Almere        | Zena Almere Centrum           | -                                 | BurnIt, Zena                                            | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
-| d100 | 1      | 2012-2013 | NL      | v
+| d100 | 1      | 2012-2013 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff                                               | TRUE          |
+| d101 | 1      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
+| d102 | 1      | 2012-2013 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Mercurius                                       | TRUE          | Also in Kudelstaart.
+| d103 | 2      | 2012-2013 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, DBVuurwerk Wolff                  | FALSE         |
+| d104 | 1      | 2012-2013 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
+| d105 | 1      | 2012-2013 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
+| d106 | 1      | 2012-2013 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red                                    | ?             |
+| d107 | 1      | 2012-2013 | NL      | Cruquius      | Intratuin                     | http://vuurwerkdepot.nl           | BonFireworks, VC, Wolff                                 | TRUE          | Flyer (leaflet)
+| d108 | 1      | 2012-2013 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Mercurius, Vulcan Europe                     | TRUE          |
