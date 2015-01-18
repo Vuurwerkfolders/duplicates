@@ -145,6 +145,20 @@ If you are interested to do an exchange, please contact me.
 | d213 | 1      | 2010-2011 | NL      | Amsterdam     | Vuurwerkspecialist / De Bas   | -                                 | Mercurius                                               | FALSE         |
 | d214 | 1      | 2010-2011 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Schuurmans (Vulcan Europe)                              | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
+|      | 1      | 2006-2007 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli                                                   | ?             |
+|      | 3      | 2006-2007 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Schuurmans (Vulcan Europe)                              | FALSE         |
+|      | 2      | 2006-2007 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Broekhoff                                               | FALSE         |
+|      | 1      | 2006-2007 | NL      | -             | Boerenbond                    | -                                 | Lesli                                                   | TRUE          |
+|      | 1      | 2006-2007 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         |
+|      | 1      | 2006-2007 | NL      | Berghem       | Bloem                         | http://bloemberghem.nl            | GBV-WECO                                                | FALSE         |
+|      | 1      | 2006-2007 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
+|      | 1      | 2006-2007 | NL      | Lith          | Latour                        | -                                 | Broekhoff                                               | FALSE         |
+|      | 1      | 2006-2007 | NL      | Amsterdam     | Café 't Poortje               | -                                 | Broekhoff                                               | FALSE         |
+|      | 1      | 2006-2007 | NL      | Zaandam       | Bofi                          | http://bofi.nl                    | Lesli                                                   | FALSE         |
+|      | 2      | 2006-2007 | NL      | Zaanstad      | 5 Vuurwerkstunters            | -                                 | Cafferata                                               | TRUE          |
+|      | 1      | 2006-2007 | NL      | Oss           | Sun Times                     | -                                 | Cafferata                                               | FALSE         |
+|      | 1      | 2006-2007 | NL      | Uithoorn      | Vuurwerk Uithoorn             | http://vuurwerkuithoorn.nl        | Breeschoten "De Kruiterij"                              | FALSE         |
+| ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 |      | 1      | 2005-2006 | NL      | Oss           | Van Mulekom                   | http://mulekom.nl                 | GBV-WECO                                                | FALSE         |
 |      | 1      | 2005-2006 | NL      | -             | Halfords                      | http://halfords.nl                | GBV-WECO, Schuurmans (Vulcan Europe)                    | TRUE          |
 |      | 1      | 2005-2006 | NL      | Abcoude       | Albers                        | -                                 | Mercurius, Schuurmans (Vulcan Europe)                   | FALSE         |
