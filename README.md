@@ -140,10 +140,14 @@ If you are interested to do an exchange, please contact me.
 | d208 | 1      | 2010-2011 | NL      | Aalsmeer      | Fuego Fireworks               | http://fuego-fireworks.nl         | Breeschoten "De Kruiterij", GBV-WECO                    | FALSE         |
 | d209 | 1      | 2010-2011 | NL      | Reeuwijk      | Vuurwerk Reeuwijk             | http://vuurwerk-reeuwijk.nl       | Zena                                                    | FALSE         |
 | d210 | 2      | 2010-2011 | NL      | -             | Welkoop                       | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
-| d211 | 1      | 2010-2011 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
+| d211 | 3      | 2010-2011 | NL      | -             | Knalfords (Halfords)          | http://knalfords.nl               | Breeschoten "De Kruiterij"                              | TRUE          |
 | d212 | 1      | 2010-2011 | NL      | -             | Intratuin                     | http://intratuinvuurwerk.nl       | Broekhoff, Lesli                                        | TRUE          |
 | d213 | 1      | 2010-2011 | NL      | Amsterdam     | Vuurwerkspecialist / De Bas   | -                                 | Mercurius                                               | FALSE         |
 | d214 | 1      | 2010-2011 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Schuurmans (Vulcan Europe)                              | FALSE         |
+| d215 | 1      | 2010-2011 | NL      | -             | Boerenbond                    | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
+| d216 | 1      | 2010-2011 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Vuurwerkvisie                                           | FALSE         | WARNING: used catalog, fields filled in!
+| d217 | 1      | 2010-2011 | NL      | Eindhoven     | Bensworld                     | http://bensworld.nl               | Lesli                                                   | FALSE         | Also in Best
+| d218 | 1      | 2010-2011 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko                                                    | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 |      | 1      | 2007-2008 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli, Vuurwerkvisie, Wolff                             | TRUE          |
 |      | 2      | 2007-2008 | NL      | Nieuwkoop     | Benza                         | http://benza-entertainment.nl     | Schuurmans (Vulcan Europe)                              | FALSE         |
