@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-01-18`**
+**UPDATED: `2015-01-19`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -145,7 +145,20 @@ If you are interested to do an exchange, please contact me.
 | d213 | 1      | 2010-2011 | NL      | Amsterdam     | Vuurwerkspecialist / De Bas   | -                                 | Mercurius                                               | FALSE         |
 | d214 | 1      | 2010-2011 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Schuurmans (Vulcan Europe)                              | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
-|      | 1      | 2006-2007 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli                                                   | ?             |
+|      | 1      | 2007-2008 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli, Vuurwerkvisie, Wolff                             | TRUE          |
+|      | 2      | 2007-2008 | NL      | Nieuwkoop     | Benza                         | http://benza-entertainment.nl     | Schuurmans (Vulcan Europe)                              | FALSE         |
+|      | 1      | 2007-2008 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         |
+|      | 1      | 2007-2008 | NL      | Berghem       | Bloem                         | http://bloemberghem.nl            | GBV-WECO                                                | FALSE         |
+|      | 2      | 2007-2008 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko                                                    | FALSE         |
+|      | 1      | 2007-2008 | NL      | Nieuwveen     | M van den Bosch               | -                                 | Broekhoff                                               | FALSE         | Slightly damaged (wrong folding)
+|      | 1      | 2007-2008 | NL      | -             | Welkoop                       | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          | Version 1B-2007
+|      | 3      | 2007-2008 | NL      | -             | Knalfords (Halfords)          | http://knalfords.nl               | Breeschoten "De Kruiterij", Schuurmans (Vulcan Europe)  | TRUE          |
+|      | 1      | 2007-2008 | NL      | Alphen a/d R. | Kabalt's Vuurwerkhal          | http://kabaltvuurwerk.nl          | GBV-WECO                                                | FALSE         |
+|      | 1      | 2007-2008 | NL      | Roelofarendsv | Karwei Roelofarendsveen       | http://karweivuurwerk.nl          | GBV-WECO                                                | FALSE         |
+|      | 1      | 2007-2008 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, Den Bleker Vuurwerk, Wolff                   | FALSE         | (featuring Gerard Joling!)
+|      | 1      | 2007-2008 | NL      | Eindhoven     | De Stek                       | http://de-stek.nl                 | Lesli                                                   | FALSE         |
+| ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
+|      | 1      | 2006-2007 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli, Vuurwerkvisie                                    | TRUE          |
 |      | 3      | 2006-2007 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Schuurmans (Vulcan Europe)                              | FALSE         |
 |      | 2      | 2006-2007 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Broekhoff                                               | FALSE         |
 |      | 1      | 2006-2007 | NL      | -             | Boerenbond                    | -                                 | Lesli                                                   | TRUE          |
