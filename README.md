@@ -55,7 +55,7 @@ If you are interested to do an exchange, please contact me.
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
 | d051 | 5      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
 | d052 | 2      | 2013-2014 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff, Pyrostar, Wolff                              | TRUE          |
-| d053 | 1      | 2013-2014 | NL      | -             | El Blanco                     | http://elblankco.nl               | Lesli                                                   | TRUE          |
+| d053 | 2      | 2013-2014 | NL      | -             | El Blanco                     | http://elblankco.nl               | Lesli                                                   | TRUE          |
 | d054 | 5      | 2013-2014 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
 | d055 | 2      | 2013-2014 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Heron, Lesli, Rubro, Zena                               | TRUE          | Fire systems and Visco fuse being sold as safety articles
 | d056 | 1      | 2013-2014 | NL      | Nieuwkoop     | Benza Nieuwkoop               | -                                 | Schuurmans (Vulcan Europe)                              | FALSE         |
@@ -76,6 +76,8 @@ If you are interested to do an exchange, please contact me.
 | d071 | 1      | 2013-2014 | NL      | Elst          | Kruit Koning (Intratuin Elst) | http://kruitkoning.nl             | BonFireworks, Broekhoff, China Red, Lesli               | TRUE          |
 | d072 | 1      | 2013-2014 | NL      | -             | Zena                          | http://zenavuurwerk.nl            | BurnIt, Zena                                            | ?             | Flyer (leaflet), not owned by a shop
 | d073 | 1      | 2013-2014 | NL      | Almere        | Zena Almere Centrum           | -                                 | BurnIt, Zena                                            | FALSE         |
+| d074 | 3      | 2013-2014 | NL      | Geldrop       | Funny Trends                  | http://funnytrends.nl             | GBV-WECO                                                | FALSE         |
+| d075 | 4      | 2013-2014 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d100 | 2      | 2012-2013 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff                                               | TRUE          |
 | d101 | 3      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
