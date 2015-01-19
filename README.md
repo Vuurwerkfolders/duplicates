@@ -55,7 +55,7 @@ If you are interested to do an exchange, please contact me.
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
 | d051 | 5      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
 | d052 | 2      | 2013-2014 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff, Pyrostar, Wolff                              | TRUE          |
-| d053 | 2      | 2013-2014 | NL      | -             | El Blanco                     | http://elblankco.nl               | Lesli                                                   | TRUE          |
+| d053 | 2      | 2013-2014 | NL      | -             | El Blanco                     | http://elblanco.nl                | Lesli                                                   | TRUE          |
 | d054 | 5      | 2013-2014 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
 | d055 | 2      | 2013-2014 | NL      | Amsterdam     | Vuurwerk NH                   | http://vuurwerk-nh.nl             | Heron, Lesli, Rubro, Zena                               | TRUE          | Fire systems and Visco fuse being sold as safety articles
 | d056 | 1      | 2013-2014 | NL      | Nieuwkoop     | Benza Nieuwkoop               | -                                 | Schuurmans (Vulcan Europe)                              | FALSE         |
@@ -80,7 +80,7 @@ If you are interested to do an exchange, please contact me.
 | d075 | 4      | 2013-2014 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d100 | 2      | 2012-2013 | NL      | Aalsmeer      | Lemo                          | http://lemovuurwerkaalsmeer.nl    | Broekhoff                                               | TRUE          |
-| d101 | 3      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
+| d101 | 6      | 2012-2013 | NL      | -             | Boerenbond Welkoop            | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
 | d102 | 2      | 2012-2013 | NL      | Nieuw-Vennep  | Balk                          | http://balkrijwielen.nl           | Hardix, Mercurius                                       | TRUE          | Also in Kudelstaart
 | d103 | 4      | 2012-2013 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, DBVuurwerk Wolff                  | FALSE         |
 | d104 | 3      | 2012-2013 | NL      | -             | Halfords                      | http://halfords.nl                | Breeschoten "De Kruiterij"                              | TRUE          |
@@ -103,6 +103,12 @@ If you are interested to do an exchange, please contact me.
 | d121 | 1      | 2012-2013 | NL      | Purmerend     | De Snuffelaar                 | http://desnuffelaar.nl            | Broekhoff, Cafferata, Schuurmans (Vulcan Europe)        | TRUE          |
 | d122 | 1      | 2012-2013 | NL      | Leusden       | Eurofleur                     | http://eurofleur.nl               | GBV-WECO                                                | FALSE         |
 | d123 | 1      | 2012-2013 | NL      | Amsterdam     | Berensen                      | -                                 | GBV-WECO                                                | FALSE         |
+| d124 | 1      | 2012-2013 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Vuurwerkvisie, Zena                                     | FALSE         |
+| d125 | 2      | 2012-2013 | NL      | -             | El Blanco                     | http://elblanco.nl                | El Blanco Fireworks, Lesli                              | TRUE          |
+| d126 | 1      | 2012-2013 | NL      | Eindhoven     | De Vuurwerkwinkel Eindhoven   | -                                 | Breeschoten "De Kruiterij", Lesli                       | FALSE         |
+| d127 | 1      | 2012-2013 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         |
+| d128 | 2      | 2012-2013 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Schuurmans (Vulcan Europe)                              | FALSE         |
+| d129 | 2      | 2012-2013 | NL      | Veldhoven     | Coppelmans                    | -                                 | Wolff                                                   | TRUE          |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d150 | 1      | 2011-2012 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Schuurmans (Vulcan Europe)                   | TRUE          |
 | d151 | 1      | 2011-2012 | NL      | Maarssen      | Vechtweelde                   | http://vuurwerkvechtweelde.nl     | Broekhoff, Rubro                                        | TRUE          | Extra, next to the original catalog
