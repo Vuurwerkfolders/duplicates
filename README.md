@@ -47,7 +47,7 @@ If you are interested to do an exchange, please contact me.
 | d040 | 7      | 2014-2015 | DE      | -             | Kaufland                      | http://kaufland.de                | WECO                                                    | TRUE          |
 | d041 | 2      | 2014-2015 | NL      | Amsterdam     | Berensen                      | -                                 | GBV-WECO                                                | FALSE         |
 | d042 | 1      | 2014-2015 | NL      | Vijfhuizen    | Makkelie                      | http://makkelievvuurwerk.nl       | Broekhoff, China Red, Vulcan Europe, Wolff              | TRUE          | Also in Badhoevedorp, Haarlem and Heemstede
-| d043 | 1      | 2014-2015 | NL      | -             | Boerenbond                    | http://boerenbondvuurwerk.nl      | Lesli                                                   | TRUE          |
+| d043 | 2      | 2014-2015 | NL      | -             | Boerenbond                    | http://boerenbondvuurwerk.nl      | Lesli                                                   | TRUE          |
 | d044 | 2      | 2014-2015 | NL      | Veldhoven     | Life&Garden Veldhoven         | -                                 | BurnIt, Vuurwerkvisie, Wolff                            | FALSE         |
 | d045 | 1      | 2014-2015 | DE      | -             | Aldi Nord                     | http://aldi-nord.de               | NICO, WECO                                              | TRUE          |
 | d046 | 2      | 2014-2015 | NL      | Amsterdam     | IJzerhandel De Vijl           | http://devijl.nl/vuurwerk         | Wolff                                                   | FALSE         |
@@ -162,6 +162,7 @@ If you are interested to do an exchange, please contact me.
 | d216 | 1      | 2010-2011 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Vuurwerkvisie                                           | FALSE         | WARNING: used catalog, fields filled in!
 | d217 | 1      | 2010-2011 | NL      | Eindhoven     | Bensworld                     | http://bensworld.nl               | Lesli                                                   | FALSE         | Also in Best
 | d218 | 1      | 2010-2011 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko                                                    | FALSE         |
+| d219 | 1      | 2010-2011 | NL      | Amsterdam     | Klarenbeek                    | http://vuurwerkkopen.nl           | Broekhoff, Mercurius, Schuurmans (Vulcan Europe)        | TRUE          |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d250 | 5      | 2009-2010 | NL      | Veldhoven     | Coppelmans                    | -                                 | Lesli                                                   | TRUE          |
 | d251 | 1      | 2009-2010 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko, Schuurmans (Vulcan Europe)                        | FALSE         |
