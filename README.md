@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-01-19`**
+**UPDATED: `2015-01-26`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -181,6 +181,33 @@ If you are interested to do an exchange, please contact me.
 | d264 | 2      | 2009-2010 | NL      | Maarssen      | Vechtweelde                   | http://vechtweelde.nl             | Broekhoff, GBV-WECO, Marijn (MX)                        | FALSE         | WARNING: 1 is an used catalog, fields filled in!
 | d265 | 2      | 2009-2010 | NL      | -             | Boerenbond                    | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          | Version week-49-2B
 | d265 | 2      | 2009-2010 | NL      | -             | Boerenbond                    | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          | WARNING: Incomplete; cover is missing
+| ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
+| d300 | 2      | 2008-2009 | NL      | Veldhoven     | Coppelmans                    | -                                 | Lesli                                                   | TRUE          |
+| d301 | 1      | 2008-2009 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | FALSE         |
+| d302 | 2      | 2008-2009 | NL      | Eindhoven     | De Stek                       | http://de-stek.nl                 | Lesli                                                   | FALSE         |
+| d303 | 3      | 2008-2009 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko                                                    | FALSE         |
+| d304 | 1      | 2008-2009 | NL      | Oss           | Van Mulenkom                  | http://mulekom.nl                 | Breeschoten "De Kruiterij"                              | FALSE         |
+| d305 | 1      | 2008-2009 | NL      | Uithoorn      | Vuurwerk Uithoorn             | http://vuurwerkuithoorn.nl        | Breeschoten "De Kruiterij"                              | FALSE         |
+| d306 | 2      | 2008-2009 | NL      | Eindhoven     | Winstpakker Fireworks         | -                                 | Apex Fireworks, Hardix, Vuurwerkvisie, Wolff            | TRUE          |
+| d307 | 1      | 2008-2009 | NL      | Utrecht       | Tuincentrum De Minstroom      | http://minstroom.com              | Lesli                                                   | FALSE         |
+| d308 | 1      | 2008-2009 | NL      | Diemen        | Maasdam                       | http://maasdam-ijzerwaren.nl      | Wolff                                                   | FALSE         | Order list included
+| d309 | 1      | 2008-2009 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
+| d310 | 1      | 2008-2009 | NL      | Hoogwoud      | De Boet                       | -                                 | Wolff                                                   | FALSE         |
+| d311 | 1      | 2008-2009 | NL      | Geffen        | Tegelhandel Leewika           | http://leewika.nl                 | Cafferata                                               | FALSE         |
+| d312 | 1      | 2008-2009 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Cafferata                                               | FALSE         |
+| d313 | 1      | 2008-2009 | NL      | Utrecht       | Koningsdal                    | http://koningsdal.nl              | GBV-WECO, Schuurmans (Vulcan Europe)                    | TRUE          |
+| d314 | 9      | 2008-2009 | NL      | -             | Knalfords (Halfords)          | http://knalfords.nl               | Breeschoten "De Kruiterij", Schuurmans (Vulcan Europe)  | TRUE          |
+| d315 | 3      | 2008-2009 | NL      | -             | Boerenbond                    | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          |
+| d316 | 1      | 2008-2009 | NL      | -             | Boerenbond                    | http://goedvuurwerk.nl            | Lesli                                                   | TRUE          | Flyer (leaflet)
+| d317 | 4      | 2008-2009 | NL      | Oss           | Bike+                         | http://bikeplus.nl                | Beko, Schuurmans (Vulcan Europe)                        | TRUE          |
+| d318 | 2      | 2008-2009 | NL      | Veldhoven     | Groenrijk De Heikant          | http://vuurwerkveldhoven.nl       | GBV-WECO                                                | FALSE         | WARNING: used catalog, fields filled in!
+| d319 | 3      | 2008-2009 | NL      | ?             | "Van uw Vuurwerkspecialist"   | -                                 | GBV-WECO                                                | FALSE         |
+| d320 | 2      | 2008-2009 | NL      | Watergang     | Waterland                     | http://vuurwerkwaterland.nl       | Cafferata                                               | ?             |
+| d321 | 1      | 2008-2009 | NL      | Eindhoven     | Bike Shop                     | -                                 | Cafferata                                               | FALSE         |
+| d322 | 1      | 2008-2009 | NL      | Eindhoven     | Bike Shop                     | -                                 | Cafferata                                               | FALSE         | Flyer (leaflet). 1 side contains non-firework products
+| d321 | 2      | 2008-2009 | NL      | Oss           | Sun Times                     | -                                 | Cafferata                                               | FALSE         |
+| d322 | 2      | 2008-2009 | NL      | Oss           | Sun Times                     | -                                 | Cafferata                                               | FALSE         | Flyer (leaflet). 1 side contains non-firework products
+| d323 | 2      | 2008-2009 | NL      | Amsterdam     | Marco's Hair & Beauty         | -                                 | Broekhoff                                               | FALSE         |
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 |      | 1      | 2007-2008 | NL      | Waalre        | De Vuurwerkspecialist         | http://de-vuurwerkspecialist.nl   | Lesli, Vuurwerkvisie, Wolff                             | TRUE          |
 |      | 2      | 2007-2008 | NL      | Nieuwkoop     | Benza                         | http://benza-entertainment.nl     | Schuurmans (Vulcan Europe)                              | FALSE         |
