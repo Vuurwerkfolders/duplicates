@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-01-26`**
+**UPDATED: `2015-02-01`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -188,7 +188,7 @@ If you are interested to do an exchange, please contact me.
 | d303 | 3      | 2008-2009 | NL      | Veldhoven     | Tuincentrum Veldhoven         | http://tuincentrumveldhoven.nl    | Beko                                                    | FALSE         |
 | d304 | 1      | 2008-2009 | NL      | Oss           | Van Mulenkom                  | http://mulekom.nl                 | Breeschoten "De Kruiterij"                              | FALSE         |
 | d305 | 1      | 2008-2009 | NL      | Uithoorn      | Vuurwerk Uithoorn             | http://vuurwerkuithoorn.nl        | Breeschoten "De Kruiterij"                              | FALSE         |
-| d306 | 2      | 2008-2009 | NL      | Eindhoven     | Winstpakker Fireworks         | -                                 | Apex Fireworks, Hardix, Vuurwerkvisie, Wolff            | TRUE          |
+| d306 | 2      | 2008-2009 | NL      | Eindhoven     | Winstpakker Fireworks         | -                                 | Hardix, Vuurwerkvisie, Wolff            | TRUE          |
 | d307 | 1      | 2008-2009 | NL      | Utrecht       | Tuincentrum De Minstroom      | http://minstroom.com              | Lesli                                                   | FALSE         |
 | d308 | 1      | 2008-2009 | NL      | Diemen        | Maasdam                       | http://maasdam-ijzerwaren.nl      | Wolff                                                   | FALSE         | Order list included
 | d309 | 1      | 2008-2009 | NL      | Amsterdam     | Reigersbos                    | http://vuurwerkreigersbos.nl      | Wolff                                                   | FALSE         |
