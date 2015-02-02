@@ -1,6 +1,6 @@
 ![Vuurwerk-folders.nl](http://pmklaassen.com/vuurwerk-folders.nl_logo500.png "Vuurwerk-folders.nl")
 
-**UPDATED: `2015-02-01`**
+**UPDATED: `2015-02-02`**
 
 This table contains duplicate firework catalogs from my collection. Visit [Vuurwerk-folders.nl](http://vuurwerk-folders.nl) to see my fireworks catalogs online.
 If you are interested to do an exchange, please contact me.
@@ -27,7 +27,7 @@ If you are interested to do an exchange, please contact me.
 | d020 | 2      | 2014-2015 | NL      | Hoofddorp     | E-Bike point                  | http://e-bikepointhoofddorp.nl    | Broekhoff, Pyro Queen, Rubro, VuurwerkMania             | FALSE         | Flyer (leaflet)
 | d021 | 1      | 2014-2015 | NL      | Aalsmeer      | Fuego Fireworks               | http://fuego-fireworks.com        | Breeschoten "De Kruiterij", Cafferata, Evolution, Rubro | TRUE          |
 | d022 | 1      | 2014-2015 | NL      | Uithoorn      | Blom & Blom                   | http://fietsexperts.nl            | Broekhoff                                               | FALSE         |
-| d023 | 2      | 2014-2015 | DE      | -             | Lidl                          | http://lidl.de                    | WECO                                                    | TRUE          | Contains also non-firework products
+| d023 | 3      | 2014-2015 | DE      | -             | Lidl                          | http://lidl.de                    | WECO                                                    | TRUE          | Contains also non-firework products
 | d024 | 1      | 2014-2015 | NL      | IJsselstein   | Intratuin                     | http://intratuinvuurwerk.nl       | VC                                                      | TRUE          | Flyer (leaflet) in A5 size for IJsselstein only
 | d025 | 1      | 2014-2015 | NL      | Amsterdam     | De Rivierenbuurt              | http://vuurwerkderivierenbuurt.nl | Katan, Rubro                                            | FALSE         |
 | d026 | 1      | 2014-2015 | NL      | Amsterdam     | Witbaard                      | http://witbaard-vuurwerk.nl       | Broekhoff, Hardix, Mercurius, VC                        | TRUE          | Also in Hilversum
@@ -51,6 +51,7 @@ If you are interested to do an exchange, please contact me.
 | d044 | 2      | 2014-2015 | NL      | Veldhoven     | Life&Garden Veldhoven         | -                                 | BurnIt, Vuurwerkvisie, Wolff                            | FALSE         |
 | d045 | 1      | 2014-2015 | DE      | -             | Aldi Nord                     | http://aldi-nord.de               | NICO, WECO                                              | TRUE          |
 | d046 | 2      | 2014-2015 | NL      | Amsterdam     | IJzerhandel De Vijl           | http://devijl.nl/vuurwerk         | Wolff                                                   | FALSE         |
+| d047 | 1      | 2014-2015 | DE      | -             | BayWa Bau & Garten            | http://baywa-baumarkt.de          | Comet                                                   | TRUE          | Contains also non-firework products
 | ---- | ------ | --------- | ------- | ------------- | ----------------------------- | --------------------------------- | ------------------------------------------------------- | ------------- | -----
 | d050 | 1      | 2013-2014 | NL      | Uithoorn      | V.D. Schaft Tweewielers       | http://vanderschafttweewielers.nl | Lesli                                                   | TRUE          |
 | d051 | 5      | 2013-2014 | NL      | Ter Aar       | Den Bleker                    | http://dbvuurwerk.nl              | Broekhoff, China Red, Wolff                             | FALSE         |
